@@ -1,0 +1,36 @@
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+pre {
+  padding: 10px;
+  color: #fff;
+  background-color: #000;
+}
+
+.footer {
+  padding-top: 25px;
+  width: 100%;
+  text-align: center;
+}
+
+img[alt=image_400] { width: 400px; }
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.page__title {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
