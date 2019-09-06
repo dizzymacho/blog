@@ -2,7 +2,7 @@
 layout: cornbread-post
 title: It's Over in Florida.
 date:   2019-08-24 15:41:30 -0400
-categories: Cornbread
+categories: Cornbread Featured
 description: Football its back, but I don’t have to tell you degenerates.
 image: /assets/images/florida.jpg
 ---

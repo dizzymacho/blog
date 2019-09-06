@@ -2,9 +2,10 @@
 layout: cornbread-post
 title: The Carolina Creeper.
 date:   2019-09-02 15:41:30 -0400
-categories: Cornbread
+categories: Cornbread, Featured
 description: Close one last week... but close doesn’t cut it.
 image: /assets/images/carolina-creeper.jpg
+
 ---
 
 Close one last week... but close doesn’t cut it. We’re rallying back for the first week of college football with a nice Carolina Matchup. Risky Rogers is betting the house on those dirty cocks from Columbia...but the Blue Horseshoe doesn’t like it.
