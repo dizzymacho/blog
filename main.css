@@ -34,3 +34,19 @@ img[alt=image_400] { width: 400px; }
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
+
+.post__title {
+  padding-top: 1rem;
+}
+
+.l-padding-bottom {
+  padding-bottom: 1rem;
+}
+
+.t-centered {
+  text-align: center;
+}
+
+.t-body-small {
+  font-size: 14px;
+}
