@@ -4,9 +4,8 @@ title: John McAfee is Killing It.
 date:   2018-11-23 15:41:30 -0400
 categories: Opinion
 description: You just keep being awesome John.
+image: /assets/images/john.jpg
 ---
-
-![image_400](https://wi-images.condecdn.net/image/XPlkknmVqNn/crop/1620/f/McAfee.jpg=250px)
 
 I was trolling through Twitter the other day and came across a fantastic post by Mr. John McAfee. If you don't know who he is, this island hopping, crypto pumping security expert is addicted to being the man.  
 

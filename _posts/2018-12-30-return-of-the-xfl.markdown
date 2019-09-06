@@ -4,9 +4,8 @@ title: Return of the XFL.
 date:   2018-12-30 15:41:30 -0400
 categories: Opinion
 description: Things don't look good for the NFL.
+image: /assets/images/vince.jpg
 ---
-
-<img src="https://d3vv6lp55qjaqc.cloudfront.net/items/212I2y1K1a3n3U101n1c/Image%202018-12-06%20at%208.13.28%20AM.png?X-CloudApp-Visitor-Id=2812380&v=2d6eac16" width="600" />
 
 Things don't look good for the NFL. I said years ago it would slowly fade away over the next 20 years and it seems to be doing just that. One of the biggest pain points I see is that the system forces kids to join the NCAA for two years before moving on to the NFL.
 

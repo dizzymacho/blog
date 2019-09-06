@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: cornbread-post
 title: It's Over in Florida.
 date:   2019-08-24 15:41:30 -0400
 categories: Cornbread
 description: Football its back, but I don’t have to tell you degenerates.
+image: /assets/images/florida.jpg
 ---
-![image_400]({{ site.url}}/assets/images/cornbread.jpg)
 
 Football its back, but I don’t have to tell you degenerates. I know you’re hungry...
 
@@ -15,7 +15,7 @@ Skaggs is ready to lay down some cash and the Blue Horseshoe doesn’t blink whe
 
 Here’s what we got this week...
 
-### Cornbread Week 1
+### Cornbread POTW - Week 1
 
 The only difference between Florida and an oven is that an oven doesn’t produce serial killers. There should be enough of them on the field tonight as the “Sunshine State” hosts UF vs. Miami. I’m sure it will smell just like the state of Florida looks (a floppy dick) but that shouldn’t stop these boys from hoot'in ands holler'in  in the end zone. 
 

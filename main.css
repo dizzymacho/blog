@@ -3,6 +3,10 @@ h1 {
   font-size: 28px;
 }
 
+.navbar-brand {
+    font-size: 28px;
+}
+
 h2 {
   font-size: 24px;
 }
@@ -26,7 +30,7 @@ pre {
 img[alt=image_400] { width: 400px; }
 
 .container {
-  max-width: 800px;
+  max-width: 900px;
   margin: auto;
 }
 
@@ -43,10 +47,33 @@ img[alt=image_400] { width: 400px; }
   padding-bottom: 1rem;
 }
 
+.l-padding-top {
+  padding-top: 1rem;
+}
+
+.l-padding-top-lg {
+  padding-top: 2rem;
+}
 .t-centered {
   text-align: center;
 }
 
 .t-body-small {
   font-size: 14px;
+}
+
+.stretched-link::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    pointer-events: auto;
+    content: "";
+    background-color: rgba(0,0,0,0);
+}
+
+.card-image {
+  padding: 0px;
 }
