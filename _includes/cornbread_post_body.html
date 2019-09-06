@@ -1,20 +1,30 @@
 <div class="container">
+<div class="row">
+<div class="col-md-12">
   <div class="post__title">
     <h1>{{ page.title }}</h1>
     <p><strong>{{ page.categories }}</strong> | {{ page.date | date_to_string }}</p>
   </div>
-  {% if post.image %}
-  <div class="l-padding-bottom">
-    <img class="img-fluid" src="{{ site.url}}{{ page.image }}" alt="image" />
+</div>
+</div>
+  {% if page.image %}
+<div class="row">
+  <div class="col-md-12">
+    <div class="l-padding-bottom">
+      <img class="img-fluid" src="{{ site.url}}{{ page.image }}" alt="image" />
+    </div>
   </div>
+</div>
   {% endif %}
-<div class="">
-{{ content }}
+<div class="row">
+<div class="col-md-12">
+  {{ content }}
+  <div class="l-padding-top">
+    <a class="btn btn-secondary" href="/cornbread" role="button">Read more Cornbread</a>
+  </div>
+  <div class="l-padding-top">
+    <a class="btn btn-primary" href="/blog" role="button">Back to Blog</a>
+  </div>
 </div>
-<div class="l-padding-top">
-  <a class="btn btn-secondary" href="/cornbread" role="button">Read more Cornbread</a>
-</div>
-<div class="l-padding-top">
-  <a class="btn btn-primary" href="/blog" role="button">Back to Blog</a>
 </div>
 </div>

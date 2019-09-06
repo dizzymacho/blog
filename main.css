@@ -46,6 +46,9 @@ img[alt=image_400] { width: 400px; }
 .l-padding-bottom {
   padding-bottom: 1rem;
 }
+.l-padding-bottom-lg {
+  padding-bottom: 2rem;
+}
 
 .l-padding-top {
   padding-top: 1rem;
@@ -76,4 +79,9 @@ img[alt=image_400] { width: 400px; }
 
 .card-image {
   padding: 0px;
+}
+
+.banner {
+  padding-top: 1rem;
+  padding-bottom: 1rem:
 }

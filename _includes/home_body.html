@@ -1,15 +1,17 @@
 <div class="container">
 <div class="row">
   <div class="col-md-12">
-    <div class="page__title t-centered">
-      <h2>{{ page.title }} - POTW</h2>
-      <hr>
-    </div>
+<div class="banner">
+  <div class="alert alert-success" role="alert">
+  <strong>Are you Hungry for a Win?</strong> Don't forget to eat your Cornbread every Saturday before kickoff. <a href="/cornbread">Latest Pick →</a>
+</div>
+<hr>
+</div>
   </div>
 </div>
 <div class="row">
   <div class="col-md-8">
-  {% include cornbread_blog_card.html %}
+  {% include blog_card.html %}
   <div class="l-padding-top l-padding-bottom-lg">
     <a class="btn btn-primary" href="/blog" role="button">Back to Top</a>
   </div>
@@ -18,5 +20,4 @@
 {% include blog_sidebar.html %}
   </div>
 </div>
-
 </div>
