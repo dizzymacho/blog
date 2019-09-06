@@ -35,8 +35,6 @@ spotify_url: https://open.spotify.com/user/1299439200?si=FRKVnlK4Qja9GKsK45wGRA
 theme: minima
 plugins:
   - jekyll-feed
-paginate: 3
-paginate_path: "posts/:num"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
