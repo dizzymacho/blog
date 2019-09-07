@@ -1,6 +1,6 @@
 ---
 layout: cornbread-post
-title: Dabo Dabbing Jimbo
+title: Daba-Dabbing Dabo
 date:   2019-09-06 15:41:30 -0400
 categories: Cornbread Featured
 description: Dabo paid it all, all to him I owe.
