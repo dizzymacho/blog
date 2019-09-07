@@ -20,4 +20,4 @@ See you at the window...
 
 ### 2019 Season
 [`Week 1: UF/Miami Over 45.5 - L`](/cornbread-potw-week1)  
-[`Week 2: UF/Miami Over 45.5 - W`](/cornbread-potw-week2)
+[`Week 2: UNC +11 - W`](/cornbread-potw-week2)
