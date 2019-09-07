@@ -3,7 +3,7 @@ layout: cornbread-post
 title: Dabo Dabbing Jimbo
 date:   2019-09-06 15:41:30 -0400
 categories: Cornbread Featured
-description: xxx
+description: Dabo paid it all, all to him I owe.
 image: /assets/images/debo.png
 ---
 How 'bout that 🔒 last week boys! I hope you enjoyed that savory treat. For those of you who didn't eat, I'd suggest you skip a meal and have a bite of cornbread.
