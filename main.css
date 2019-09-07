@@ -85,3 +85,6 @@ img[alt=image_400] { width: 400px; }
   padding-top: 1rem;
   padding-bottom: 1rem:
 }
+
+.win {color: green;}
+.loss {color: red;}
