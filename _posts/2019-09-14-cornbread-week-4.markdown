@@ -23,6 +23,6 @@ We're going to see those lions roar today boys!!! Don't be shy with the units on
 See you at the window...
 
 ### 2019 Season: 1W - 2L
-[`Week 1: UF/Miami Over 45.5 - L`](/cornbread-potw-week1)  
-[`Week 2: UNC +11 - W`](/cornbread-potw-week2)
-[`Week 2: Clemson -17 - L`](/cornbread-potw-week3)
+[Week 1: UF/Miami Over 45.5 - L](/cornbread-potw-week1)  
+[Week 2: UNC +11 - W](/cornbread-potw-week2)  
+[Week 2: Clemson -17 - L](/cornbread-potw-week3)
