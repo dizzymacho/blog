@@ -4,7 +4,7 @@ title:  Rebel Retards
 date:   2019-09-14 01:41:30 -0400
 categories: Cornbread
 description: Here those Rebels Wailing
-image: /assets/images/lion.png/
+image: /assets/images/lion.png
 ---
 Well boys... the Lieutenant won it outright with a backdoor cover last week. It's not how we wanted it to play out, but as they always say "you can't win if you don't play." Let's see what's on the sheet this week.
 
