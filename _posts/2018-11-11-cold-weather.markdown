@@ -2,7 +2,7 @@
 layout: cornbread-post
 title: Under the Weather.
 date:   2018-11-11 15:41:30 -0400
-categories: Cornbread
+categories: Old
 description: It’s a crispy cold cruiser out tonight.
 ---
 ![image_400]({{ site.url}}/assets/images/cornbread.jpg)

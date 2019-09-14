@@ -2,7 +2,7 @@
 layout: cornbread-post
 title: The Carolina Creeper.
 date:   2019-09-02 15:41:30 -0400
-categories: Cornbread Featured
+categories: Cornbread
 description: Close one last week... but close doesn’t cut it.
 image: /assets/images/carolina-creeper.jpg
 
