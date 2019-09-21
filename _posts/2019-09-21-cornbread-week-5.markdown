@@ -17,7 +17,7 @@ Throw a couple units the other way and hold on tight.
 
 See you at the window...
 
-### 2019 Season: 1W - 2L
+### 2019 Season: 2W - 2L
 [Week 1: UF/Miami Over 45.5 - L](/cornbread-potw-week1)    
 [Week 2: UNC +11 - W](/cornbread-potw-week2)    
 [Week 3: Clemson -17 - L](/cornbread-potw-week3)  
