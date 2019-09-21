@@ -3,7 +3,7 @@ layout: cornbread-post
 title:  You must be this tall to ride
 date:   2019-09-15 01:41:30 -0400
 categories: Cornbread
-description: Honky Tonk Ba-donk-a-donk
+description: Honky Tonk Spread
 image: /assets/images/sty.png
 ---
 Pleasure doing business with you last week... but no time for funny business...that sweet corn cake is ready to be served.
@@ -11,7 +11,7 @@ Pleasure doing business with you last week... but no time for funny business...t
 ### Cornbread POTW - Week 5
 Skaggs met a guy at Jimmy Au's from Toledo who really likes Ed and the Tigers in Nash-Vegas this weekend. Said he was a real nice guy until he rode off on his bicycle.
 
-Throw a couple unit the other way and hold on tight.
+Throw a couple units the other way and hold on tight.
 
 **Vandy +24**
 
