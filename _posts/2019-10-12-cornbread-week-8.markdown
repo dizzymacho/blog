@@ -21,5 +21,5 @@ See you at the window...
 [Week 3: Clemson -17 - L](/cornbread-potw-week3)    
 [Week 4: SE Louisiana  +31 - W ](/cornbread-potw-week4)  
 [Week 5: Vandy  +24 - L ](/cornbread-potw-week5)  
-[Week 6: Wisconsin -23.5 - L](/cornbread-potw-week6)
+[Week 6: Wisconsin -23.5 - L](/cornbread-potw-week6)  
 [Week 6: UAB -10 - W](/cornbread-potw-week7)
