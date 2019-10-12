@@ -13,9 +13,15 @@ After last weeks explosion against Illinois, and the possibility of Adrian Marti
 
 **Minnesota -7 (vs. Nebraska)**
 
+### Poncho's Power Play
+I don't typically throw around hard earned money on the likes of the NFL, but Poncho sent me one that was too good to pass up.
+
+**Carolina -2 (vs. Bucs)**
+
 See you at the window...
 
 ### 2019 Season: 3W - 4L
+
 [Week 1: UF/Miami Over 45.5 - L](/cornbread-potw-week1)      
 [Week 2: UNC +11 - W](/cornbread-potw-week2)      
 [Week 3: Clemson -17 - L](/cornbread-potw-week3)    
